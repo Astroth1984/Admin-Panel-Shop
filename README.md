@@ -40,3 +40,7 @@ To have access to the platforme, to all Admin Roles and to all CRUD operators , 
 ## Edit User 
 
 ![Edit User](user.png)
+
+### Client Side (Front-office): 
+
+To make Orders, see Categories and test Stripe Payement, please visit  **[Client-Side](https://github.com/Astroth1984/e-coomere-app/ "Client Front-Office")** Repository
