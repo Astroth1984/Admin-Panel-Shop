@@ -31,6 +31,7 @@ export default function WidgetLg() {
         {orders.map((order) => (
           <tr className="widgetLgTr" key={order._id}>
             <td className="widgetLgUser">
+              <img className="widgetLgImg" src="https://crossdressingtales.files.wordpress.com/2019/02/list-icon.png?w=512" alt="" />
               <span className="widgetLgName">{order.userId}</span>
             </td>
             <td className="widgetLgDate">{format(order.createdAt)}</td>

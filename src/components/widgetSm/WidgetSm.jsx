@@ -25,7 +25,7 @@ export default function WidgetSm() {
             <img
               src={
                 user.img ||
-                "https://crowd-literature.eu/wp-content/uploads/2015/01/no-avatar.gif"
+                "https://th.bing.com/th/id/R.f6b0233e61d11773a953c440943bb97e?rik=P%2fM45sOPPvNegA&riu=http%3a%2f%2fwww.pppsmasaurhi.com%2fimg%2fbg-img%2ft1.png&ehk=L2MfCzE0RP1jkiLDVhWo2%2fvpXMKpgNQj%2fV9W%2f9eOafQ%3d&risl=&pid=ImgRaw&r=0"
               }
               alt=""
               className="widgetSmImg"

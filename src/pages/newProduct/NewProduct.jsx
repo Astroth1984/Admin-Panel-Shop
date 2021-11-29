@@ -91,7 +91,9 @@ export default function NewProduct() {
         </div>
         <div className="addProductItem">
           <label>Description</label>
-          <input
+          <textarea
+            rows="8"
+            cols="50"
             name="desc"
             type="text"
             placeholder="description..."

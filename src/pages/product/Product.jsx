@@ -93,7 +93,7 @@ export default function Product() {
             <label>Product Name</label>
             <input type="text" placeholder={product.title} />
             <label>Product Description</label>
-            <input type="text" placeholder={product.desc} />
+            <textarea rows="5" type="text" placeholder={product.desc} />
             <label>Price</label>
             <input type="text" placeholder={product.price} />
             <label>In Stock</label>
